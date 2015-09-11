@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "KDDI ChatWork シングルサインオン",
+        "description": "拡張の名称"
+    },
+    "extDescription": {
+        "message": "ログインセッションが切れた時、専用ログインURLにリダイレクトします。専用ログインURLは会社ごとに決まっています。",
+        "description": "拡張の説明"
+    },
+    "labelLoginUrl": {
+        "message": "専用ログインURL",
+        "description": "オプション画面のラベル"
+    },
+    "labelSave": {
+        "message": "保存",
+        "description": "オプション画面のラベル"
+    },
+    "labelCancel": {
+        "message": "キャンセル",
+        "description": "オプション画面のラベル"
+    },
+    "alertInputLoginUrl": {
+        "message": "専用ログインURLを設定してください。",
+        "description": "専用ログインURLが設定されていない場合に警告する"
+    }
+}

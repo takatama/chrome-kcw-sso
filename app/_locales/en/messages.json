@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "KDDI ChatWork Single Sign On",
+        "description": "Extension name."
+    },
+    "extDescription": {
+        "message": "Redirects to your company's login URL if login session is expired.",
+        "description": "Extension description."
+    },
+    "labelLoginUrl": {
+        "message": "Login URL for your company",
+        "description": "Label for options page."
+    },
+    "labelSave": {
+        "message": "Save",
+        "description": "Label for options page."
+    },
+    "labelCancel": {
+        "message": "Cancel",
+        "description": "Label for options page."
+    },
+    "alertInputLoginUrl": {
+        "message": "Please set login URL for your company.",
+        "description": "Alert if login URL is blank."
+    }
+}
